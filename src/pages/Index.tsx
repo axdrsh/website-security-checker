@@ -39,7 +39,7 @@ const Index = () => {
         )}
         
         <footer className="mt-16 text-center text-sm text-gray-500">
-          <p>TrustOracle Website Security Analyzer © {new Date().getFullYear()}</p>
+          <p>Website Security Analyzer © {new Date().getFullYear()}</p>
         </footer>
       </div>
       </div>
